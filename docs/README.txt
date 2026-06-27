@@ -17,6 +17,9 @@ Implemented Features:
 
 Tested Device:
 - realme RMX3471 physical Android device
+- pixel xl
+- nexus 10 tablet
+- pixel 4 xl
 
 Tested Orientations:
 - Portrait mode
