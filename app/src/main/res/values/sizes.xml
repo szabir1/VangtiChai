@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="zero_size">0dp</dimen>
+
+    <dimen name="screen_padding">14dp</dimen>
+    <dimen name="amount_top_margin">22dp</dimen>
+    <dimen name="content_top_margin">28dp</dimen>
+
+    <dimen name="amount_text_size">16sp</dimen>
+    <dimen name="note_text_size">16sp</dimen>
+    <dimen name="button_text_size">15sp</dimen>
+
+    <dimen name="note_list_width">92dp</dimen>
+    <dimen name="note_label_width">54dp</dimen>
+    <dimen name="note_row_height">30dp</dimen>
+
+    <dimen name="keypad_start_margin">8dp</dimen>
+    <dimen name="keypad_top_offset">30dp</dimen>
+
+    <dimen name="key_button_width">48dp</dimen>
+    <dimen name="key_button_height">38dp</dimen>
+    <dimen name="key_button_margin">2dp</dimen>
+    <dimen name="clear_button_width">100dp</dimen>
+</resources>
