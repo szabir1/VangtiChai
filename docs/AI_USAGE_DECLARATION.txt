@@ -1,5 +1,5 @@
 AI Usage Declaration
 
-I used AI assistance during this assignment for guidance on Gradle debugging, Kotlin code explanation, XML layout organization, orientation handling and GitHub submission preparation.
+I used AI assistance during this assignment for guidance on Gradle debugging, Kotlin code issues, XML layout organization, orientation handling and GitHub submission preparation.
 
 AI was used as a learning and debugging support tool. I reviewed, edited, tested and verified the final implementation myself. The application was run and tested on an Android device and the final code was checked before submission.
